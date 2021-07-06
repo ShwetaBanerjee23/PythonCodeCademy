@@ -1,7 +1,11 @@
+# add your meal cost here
 mealCost = 44.5
-restaurantTax = 0.0675 * mealCost
-tip = 0.15 * (mealCost + restaurantTax)
+# add restaurant tax here after converting from percentage to decimal
+restaurantTax = 0.0675
+# add tip here after converting from percentage to decimal
+tip = 0.15
 
-mealCost += restaurantTax + tip
+# this calculates the total amount you have to pay
+mealCost += restaurantTax * mealCost + tip * (mealCost + restaurantTax)
 
 print(mealCost)
