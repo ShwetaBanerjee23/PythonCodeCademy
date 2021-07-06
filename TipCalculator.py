@@ -1,6 +1,6 @@
 """
 This program uses basic arithmetic to calculate the total amount of money that a particular 
-customer needs to pay at a hotel based on tip and restaurant tax
+customer needs to pay at a hotel depending on tip and restaurant tax
 """
 
 # add your meal cost here
