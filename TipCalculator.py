@@ -1,3 +1,7 @@
+"""
+This program uses basic arithmetic to calculate the total cost a customer needs to pay at a hotel
+"""
+
 # add your meal cost here
 mealCost = 44.5
 # add restaurant tax here after converting from percentage to decimal
