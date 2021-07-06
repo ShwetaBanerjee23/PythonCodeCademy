@@ -1,5 +1,9 @@
 """
-This program generates passages that are generated in mad-lib format. It prompts the user for inputs and then prints the story with the inputs matched to the right places.
+This program generates passages that are generated in mad-lib format. It prompts 
+the user for inputs and then prints the story with the inputs matched to the 
+right places. It uses basics of Python including user inputs, print statements 
+and string concatenation and string formatting.
+
 Author: Shweta Banerjee
 """
 
