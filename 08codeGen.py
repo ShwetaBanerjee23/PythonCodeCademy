@@ -1,8 +1,8 @@
-import random
-
 """
 Caesar cipher - encrypts + decrypts messages.
 """
+
+import random
 
 
 def encrypt(text, n):
